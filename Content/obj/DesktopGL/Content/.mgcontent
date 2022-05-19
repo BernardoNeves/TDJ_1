@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/down.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingDown.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingLeft.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingRight.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingTop.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/left.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/right.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/top.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

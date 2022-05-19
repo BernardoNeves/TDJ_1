@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3</SourceFile>
+  <SourceTime>2022-05-19T18:43:30.9145601+01:00</SourceTime>
+  <DestFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Sound/nevergoing.xnb</DestFile>
+  <DestTime>2022-05-19T18:47:31.5109363+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Sound/nevergoing.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
