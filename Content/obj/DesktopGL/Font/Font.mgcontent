@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Font/Font.spritefont</SourceFile>
+  <SourceTime>2022-05-24T18:42:29.0230101+01:00</SourceTime>
+  <DestFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Font/Font.xnb</DestFile>
+  <DestTime>2022-05-24T19:10:58.2679084+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

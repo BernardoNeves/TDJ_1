@@ -16,35 +16,35 @@ namespace TheGame.States
         {
             var buttonTexture = _content.Load<Texture2D>("Controls/SimpleButton");
             var playBtnTexture = _content.Load<Texture2D>("Controls/StartBtn");
-            var buttonFont = _content.Load<SpriteFont>("Fonts/Font");
+            var buttonFont = _content.Load<SpriteFont>("Font/Font");
 
             var newEasyGameButton = new Button(playBtnTexture, buttonFont)
             {
-                Position = new Vector2(300, 200),
-                Text = "Start Easy",
+                Position = new Vector2(480, 200),
+                Text = "Easy",
             };
 
-            newEasyGameButton.Click += NewGameButton_Click;
+            newEasyGameButton.Click += NewEasyGameButton_Click;
 
             var newNormalGameButton = new Button(playBtnTexture, buttonFont)
             {
-                Position = new Vector2(400, 200),
-                Text = "Start Normal",
+                Position = new Vector2(590, 200),
+                Text = "Normal",
             };
 
-            newNormalGameButton.Click += NewGameButton_Click;
+            newNormalGameButton.Click += NewNormalGameButton_Click;
 
             var newHardGameButton = new Button(playBtnTexture, buttonFont)
             {
-                Position = new Vector2(500, 200),
-                Text = "Start Hard",
+                Position = new Vector2(700, 200),
+                Text = "Hard",
             };
 
-            newHardGameButton.Click += NewGameButton_Click;
+            newHardGameButton.Click += NewHardGameButton_Click;
 
             var scoreBoardButton = new Button(buttonTexture, buttonFont)
             {
-                Position = new Vector2(300, 300),
+                Position = new Vector2(490, 320),
                 Text = "Scoreboard",
             };
 
@@ -52,7 +52,7 @@ namespace TheGame.States
 
             var quitGameButton = new Button(buttonTexture, buttonFont)
             {
-                Position = new Vector2(300, 400),
+                Position = new Vector2(490, 440),
                 Text = "Quit Game",
             };
 
@@ -70,22 +70,32 @@ namespace TheGame.States
 
         public override void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
-            //spriteBatch.Begin();
+            spriteBatch.Begin();
 
             foreach (var component in _components)
                 component.Draw(gameTime, spriteBatch);
 
-            //spriteBatch.End();
+            spriteBatch.End();
         }
 
         private void ScoreBoardButton_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Open Scoreboard");
+            _game.ChangeState(new Scoreboard(_game, _graphicsDevice, _content));
         }
 
-        private void NewGameButton_Click(object sender, EventArgs e)
+        private void NewEasyGameButton_Click(object sender, EventArgs e)
         {
-            //_game.ChangeState(new GameState(_game, _graphicsDevice, _content));
+            _game.ChangeState(new GameState(_game, _graphicsDevice, _content, 3));
+        }
+
+        private void NewNormalGameButton_Click(object sender, EventArgs e)
+        {
+            _game.ChangeState(new GameState(_game, _graphicsDevice, _content, 4));
+        }
+
+        private void NewHardGameButton_Click(object sender, EventArgs e)
+        {
+            _game.ChangeState(new GameState(_game, _graphicsDevice, _content, 5));
         }
 
         public override void PostUpdate(GameTime gameTime)

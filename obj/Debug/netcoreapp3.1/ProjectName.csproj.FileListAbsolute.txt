@@ -83,3 +83,9 @@ C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Im
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedRight.xnb
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedTop.xnb
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\giphy.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Font\Font.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\hitnormal.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\hitnormal.ogg
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\combobreak.ogg
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\combobreak.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\bar.xnb

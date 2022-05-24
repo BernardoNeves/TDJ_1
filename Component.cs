@@ -12,6 +12,5 @@ namespace TheGame
         public abstract void Draw(GameTime gameTime, SpriteBatch spriteBranch);
 
         public abstract void Update(GameTime gameTime);
-
     }
 }

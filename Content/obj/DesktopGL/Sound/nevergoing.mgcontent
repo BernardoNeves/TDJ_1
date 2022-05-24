@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/IPCA/1.2 TDJ/Content/Sound/nevergoing.mp3</SourceFile>
-  <SourceTime>2022-05-21T10:30:18.2576887+01:00</SourceTime>
-  <DestFile>D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Sound/nevergoing.xnb</DestFile>
-  <DestTime>2022-05-21T10:54:57.8338183+01:00</DestTime>
+  <SourceFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3</SourceFile>
+  <SourceTime>2022-05-24T17:04:13.7600099+01:00</SourceTime>
+  <DestFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Sound/nevergoing.xnb</DestFile>
+  <DestTime>2022-05-24T19:11:01.0262629+01:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Sound/nevergoing.ogg</string>
+    <string>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Sound/nevergoing.ogg</string>
   </BuildOutput>
 </PipelineBuildEvent>

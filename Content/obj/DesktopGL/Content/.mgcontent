@@ -7,6 +7,8 @@
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Controls/SimpleButton.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Controls/StartBtn.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Font/File.spritefont</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Font/Font.spritefont</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/bar.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/down.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingDown.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingLeft.png</File>
@@ -19,12 +21,18 @@
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/pressedTop.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/right.png</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/top.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/combobreak.mp3</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/hitnormal.mp3</File>
     <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>Font/Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

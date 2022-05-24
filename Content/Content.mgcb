@@ -44,6 +44,25 @@
 /processorParam:TextureFormat=Compressed
 /build:Font/File.spritefont;Font/Arial.spritefont
 
+#begin Font/Font.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font/Font.spritefont
+
+#begin Img/bar.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Img/bar.png
+
 #begin Img/down.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -187,6 +206,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Img/top.png
+
+#begin Sound/combobreak.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/combobreak.mp3
+
+#begin Sound/hitnormal.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/hitnormal.mp3
 
 #begin Sound/nevergoing.mp3
 /importer:Mp3Importer
