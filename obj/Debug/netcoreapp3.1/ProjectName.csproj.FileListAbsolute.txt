@@ -75,3 +75,11 @@ D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\top.xnb
 D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.ogg
 D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.xnb
 D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Font\Arial.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Font\Arial.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Controls\SimpleButton.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Controls\StartBtn.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedDown.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedLeft.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedRight.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\pressedTop.xnb
+C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\giphy.xnb

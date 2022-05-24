@@ -4,19 +4,31 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>d:/IPCA/1.2 TDJ/Content/Font/File.spritefont</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/down.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/fallingDown.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/fallingLeft.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/fallingRight.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/fallingTop.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/left.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/right.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Img/top.png</File>
-    <File>d:/IPCA/1.2 TDJ/Content/Sound/nevergoing.mp3</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Controls/SimpleButton.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Controls/StartBtn.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Font/File.spritefont</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/down.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingDown.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingLeft.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingRight.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingTop.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/left.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/pressedDown.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/pressedLeft.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/pressedRight.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/pressedTop.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/right.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/top.png</File>
+    <File>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File>Font/Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

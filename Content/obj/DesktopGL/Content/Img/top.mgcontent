@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>d:/IPCA/1.2 TDJ/Content/Img/top.png</SourceFile>
-  <SourceTime>2022-05-21T10:30:18.2393767+01:00</SourceTime>
-  <DestFile>d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/top.xnb</DestFile>
-  <DestTime>2022-05-24T16:59:45.9115108+01:00</DestTime>
+  <SourceFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/top.png</SourceFile>
+  <SourceTime>2022-05-20T16:49:28.921267+01:00</SourceTime>
+  <DestFile>C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/top.xnb</DestFile>
+  <DestTime>2022-05-24T18:08:03.564233+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using System;
 using System.Collections.Generic;
+using TheGame.States;
 
 namespace TheGame
 {
@@ -48,12 +49,11 @@ namespace TheGame
             MediaPlayer.Play(song);
             MediaPlayer.Volume = 0.005f;
 
-
             Notes FixedNotes = new Notes(this, "Img/left", new Vector2(332, 530));
             fixedNotes.Add(FixedNotes);
-            FixedNotes = new Notes(this, "Img/top", new Vector2(487, 530));
+            FixedNotes = new Notes(this, "Img/down", new Vector2(487, 530));
             fixedNotes.Add(FixedNotes);
-            FixedNotes = new Notes(this, "Img/down", new Vector2(642, 530));
+            FixedNotes = new Notes(this, "Img/top", new Vector2(642, 530));
             fixedNotes.Add(FixedNotes);
             FixedNotes = new Notes(this, "Img/right", new Vector2(797, 530));
             fixedNotes.Add(FixedNotes);
@@ -63,17 +63,18 @@ namespace TheGame
 
             FixedNotes = new Notes(this, "Img/pressedLeft", new Vector2(-500, -500)); // pressed keys
             fixedNotes.Add(FixedNotes);
-            FixedNotes = new Notes(this, "Img/pressedTop", new Vector2(-500, -500));
-            fixedNotes.Add(FixedNotes);
             FixedNotes = new Notes(this, "Img/pressedDown", new Vector2(-500, -500));
+            fixedNotes.Add(FixedNotes);
+            FixedNotes = new Notes(this, "Img/pressedTop", new Vector2(-500, -500));
             fixedNotes.Add(FixedNotes);
             FixedNotes = new Notes(this, "Img/pressedRight", new Vector2(-500, -500));
             fixedNotes.Add(FixedNotes);
 
             FixedNotes = new Notes(this, "Img/pressedRight", new Vector2(-500, -500));
             fixedNotes.Add(FixedNotes);
+
             Notes FallingNotes;
-            int j = 0;
+            int j = 0, k = 100;
             for (int i = 0; i < 135; i++)
             {
                 Random rand = new Random();
@@ -82,29 +83,30 @@ namespace TheGame
                 {
                     case 1:
                         j++;
-                        FallingNotes = new Notes(this, "Img/fallingLeft", new Vector2(332, -j * 600));
+                        FallingNotes = new Notes(this, "Img/fallingLeft", new Vector2(332, -j * 600 + k));
                         fallingNotes.Add(j, FallingNotes);
                         break;
 
                     case 2:
                         j++;
-                        FallingNotes = new Notes(this, "Img/fallingTop", new Vector2(487, -j * 600));
+                        FallingNotes = new Notes(this, "Img/fallingDown", new Vector2(487, -j * 600 + k));
                         fallingNotes.Add(j, FallingNotes);
                         break;
 
                     case 3:
                         j++;
-                        FallingNotes = new Notes(this, "Img/fallingDown", new Vector2(642, -j * 600));
+                        FallingNotes = new Notes(this, "Img/fallingTop", new Vector2(642, -j * 600 + k));
                         fallingNotes.Add(j, FallingNotes);
                         break;
                     case 4:
                         j++;
-                        FallingNotes = new Notes(this, "Img/fallingRight", new Vector2(797, -j * 600));
+                        FallingNotes = new Notes(this, "Img/fallingRight", new Vector2(797, -j * 600 + k));
                         fallingNotes.Add(j, FallingNotes);
                         break;
 
                 }
             }
+
             Strings ScoreStrings = new Strings(this, Arial, "300", new Vector2(0, -500), Color.Blue);
             scoreStrings.Add(ScoreStrings);
             ScoreStrings = new Strings(this, Arial, "200", new Vector2(0, -500), Color.Green);
@@ -162,9 +164,9 @@ namespace TheGame
 
             if (Keyboard.GetState().IsKeyDown(Keys.Left))
                 k = 0;
-            if (Keyboard.GetState().IsKeyDown(Keys.Up))
-                k = 1;
             if (Keyboard.GetState().IsKeyDown(Keys.Down))
+                k = 1;
+            if (Keyboard.GetState().IsKeyDown(Keys.Up))
                 k = 2;
             if (Keyboard.GetState().IsKeyDown(Keys.Right))
                 k = 3;
@@ -232,14 +234,14 @@ namespace TheGame
             // TODO: Add your drawing code here
 
             _spriteBatch.Begin();
-            foreach (Notes note in fixedNotes)
-            {
-                note.drawNote(_spriteBatch);
-            }
 
             foreach (KeyValuePair<int, Notes> note in fallingNotes)
             {
                 note.Value.drawNote(_spriteBatch);
+            }
+            foreach (Notes note in fixedNotes)
+            {
+                note.drawNote(_spriteBatch);
             }
             foreach (Strings String in scoreStrings)
             {
