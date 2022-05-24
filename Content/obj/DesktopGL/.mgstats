@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/IPCA/1.2 TDJ/Content/Font/File.spritefont","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70690,0.2160608
+"D:/IPCA/1.2 TDJ/Content/Img/down.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/down.xnb","TextureProcessor","Texture2DContent",21778,90085,0.3907472
+"D:/IPCA/1.2 TDJ/Content/Img/fallingDown.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/fallingDown.xnb","TextureProcessor","Texture2DContent",32051,90085,0.0124163
+"D:/IPCA/1.2 TDJ/Content/Img/fallingLeft.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/fallingLeft.xnb","TextureProcessor","Texture2DContent",30718,90085,0.0099326
+"D:/IPCA/1.2 TDJ/Content/Img/fallingRight.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/fallingRight.xnb","TextureProcessor","Texture2DContent",30593,90085,0.0076703
+"D:/IPCA/1.2 TDJ/Content/Img/fallingTop.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/fallingTop.xnb","TextureProcessor","Texture2DContent",32121,90085,0.0102199
+"D:/IPCA/1.2 TDJ/Content/Img/left.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/left.xnb","TextureProcessor","Texture2DContent",14416,90085,0.0108412
+"D:/IPCA/1.2 TDJ/Content/Img/right.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/right.xnb","TextureProcessor","Texture2DContent",17123,90085,0.0114955
+"D:/IPCA/1.2 TDJ/Content/Img/top.png","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Img/top.xnb","TextureProcessor","Texture2DContent",14692,90085,0.0105158
+"D:/IPCA/1.2 TDJ/Content/Sound/nevergoing.mp3","D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Sound/nevergoing.xnb","SongProcessor","SongContent",2189012,128,3.8605075

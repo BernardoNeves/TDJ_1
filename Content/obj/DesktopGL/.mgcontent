@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/IPCA/1.2 TDJ/Content/Font/File.spritefont</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/down.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/fallingDown.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/fallingLeft.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/fallingRight.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/fallingTop.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/left.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/right.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Img/top.png</File>
+    <File>D:/IPCA/1.2 TDJ/Content/Sound/nevergoing.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Font/Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

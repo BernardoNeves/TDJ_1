@@ -1,10 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/down.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/down.xnb","TextureProcessor","Texture2DContent",21778,90085,0.1660952
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingDown.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingDown.xnb","TextureProcessor","Texture2DContent",32051,90085,0.1289491
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingLeft.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingLeft.xnb","TextureProcessor","Texture2DContent",30718,90085,0.0033383
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingRight.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingRight.xnb","TextureProcessor","Texture2DContent",30593,90085,0.0041507
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/fallingTop.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/fallingTop.xnb","TextureProcessor","Texture2DContent",32121,90085,0.002886
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/left.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/left.xnb","TextureProcessor","Texture2DContent",14416,90085,0.0537955
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/right.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/right.xnb","TextureProcessor","Texture2DContent",17123,90085,0.0048688
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Img/top.png","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Img/top.xnb","TextureProcessor","Texture2DContent",14692,90085,0.010177
-"C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/Sound/nevergoing.mp3","C:/Users/cutth/Desktop/IPCA/EDJ/Projeto/TDJ_1/Content/bin/DesktopGL/Content/Sound/nevergoing.xnb","SongProcessor","SongContent",2189012,128,3.15798
+"d:/IPCA/1.2 TDJ/Content/Font/File.spritefont","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2005,267298,0.2887898
+"d:/IPCA/1.2 TDJ/Content/Img/down.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/down.xnb","TextureProcessor","Texture2DContent",21778,90085,0.0130091
+"d:/IPCA/1.2 TDJ/Content/Img/fallingDown.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/fallingDown.xnb","TextureProcessor","Texture2DContent",32051,90085,0.0065249
+"d:/IPCA/1.2 TDJ/Content/Img/fallingLeft.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/fallingLeft.xnb","TextureProcessor","Texture2DContent",30718,90085,0.0042133
+"d:/IPCA/1.2 TDJ/Content/Img/fallingRight.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/fallingRight.xnb","TextureProcessor","Texture2DContent",30593,90085,0.00372
+"d:/IPCA/1.2 TDJ/Content/Img/fallingTop.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/fallingTop.xnb","TextureProcessor","Texture2DContent",32121,90085,0.0065906
+"d:/IPCA/1.2 TDJ/Content/Img/left.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/left.xnb","TextureProcessor","Texture2DContent",14416,90085,0.0047314
+"d:/IPCA/1.2 TDJ/Content/Img/right.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/right.xnb","TextureProcessor","Texture2DContent",17123,90085,0.0056472
+"d:/IPCA/1.2 TDJ/Content/Img/top.png","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Img/top.xnb","TextureProcessor","Texture2DContent",14692,90085,0.0078176
+"d:/IPCA/1.2 TDJ/Content/Sound/nevergoing.mp3","d:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Sound/nevergoing.xnb","SongProcessor","SongContent",2189012,128,3.354821

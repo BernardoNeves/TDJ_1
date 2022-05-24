@@ -60,3 +60,18 @@ C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Im
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Img\fallingTop.xnb
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.ogg
 C:\Users\cutth\Desktop\IPCA\EDJ\Projeto\TDJ_1\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\baixo.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\ball.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\cima.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\fallRight.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\down.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\fallingDown.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\fallingLeft.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\fallingRight.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\fallingTop.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\left.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\right.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Img\top.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.ogg
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Sound\nevergoing.xnb
+D:\IPCA\1.2 TDJ\bin\Debug\netcoreapp3.1\Content\Font\Arial.xnb
