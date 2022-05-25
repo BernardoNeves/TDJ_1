@@ -150,7 +150,7 @@ namespace TheGame.States
                 RestartGame();
             }
 
-                int i = 1, j = 4, k = 4;
+            int i = 1, j = 4, k = 4;
             foreach (KeyValuePair<int, Notes> note in fallingNotes)
             {
                 fallingNotes[i].SetNotePosition(new Vector2(fallingNotes[i].GetNotePosition().X, fallingNotes[i].GetNotePosition().Y + Difficulty * 300 * (float)gameTime.ElapsedGameTime.TotalSeconds));
@@ -164,19 +164,34 @@ namespace TheGame.States
                         cbreak.Play();
                     Combo = 0;
                     HP -= 10;
-                   
-                    
+
+                    switch (fallingNotes[m].GetNoteOrientation())
+                    {
+                        case "Img/fallingLeft":
+                            i = 0;
+                            break;
+                        case "Img/fallingDown":
+                            i = 1;
+                            break;
+                        case "Img/fallingTop":
+                            i = 2;
+                            break;
+                        case "Img/fallingRight":
+                            i = 3;
+                            break;
+                    }
+
                     scoreStrings[3].SetStringPosition(new Vector2(fixedNotes[i].GetNotePosition().X, fixedNotes[i].GetNotePosition().Y - 230));
 
                 }
                 m++;
             }
-            if(m == 135 && fallingNotes[m].GetNotePosition().Y > 1280.00f)
+            if (m == 135 && fallingNotes[m].GetNotePosition().Y > 1280.00f)
             {
                 _game.scores.Add(Score);
                 _game.ChangeState(new Scoreboard(_game, _graphicsDevice, _content));
             }
-                
+
             for (i = 0; i < 5; i++)
             {
                 for (j = 0; j <= 30; j++)
@@ -237,7 +252,7 @@ namespace TheGame.States
                     HP -= 10;
                     j = 3;
                     fallingNotes[m].SetPressedNote(true);
-                    if(Combo > 10)
+                    if (Combo > 10)
                         cbreak.Play();
                     Combo = 0;
                 }

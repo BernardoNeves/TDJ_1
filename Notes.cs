@@ -35,10 +35,10 @@ namespace TheGame
             this.position = newPos;
         }
 
-        // public void GetNoteOrientation();
-        // {
-        //     this.position = newPos;
-        // }
+        public string GetNoteOrientation()
+        {
+            return this.Orientation;
+        }
 
         public bool GetPressedNote()
         {
