@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/IPCA/1.2 TDJ/Content/Font/File.spritefont</SourceFile>
+  <SourceFile>d:/IPCA/1.2 TDJ/TDJ_1/Content/Font/File.spritefont</SourceFile>
   <SourceTime>2022-05-24T12:36:08.9004541+01:00</SourceTime>
-  <DestFile>D:/IPCA/1.2 TDJ/Content/bin/DesktopGL/Content/Font/Arial.xnb</DestFile>
-  <DestTime>2022-05-26T18:52:37.2600347+01:00</DestTime>
+  <DestFile>d:/IPCA/1.2 TDJ/TDJ_1/Content/bin/DesktopGL/Content/Font/Arial.xnb</DestFile>
+  <DestTime>2022-05-28T17:33:00.8777483+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
