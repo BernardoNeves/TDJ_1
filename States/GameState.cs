@@ -33,7 +33,7 @@ namespace TheGame.States
 
             this.Difficulty = difficulty;
             MediaPlayer.Play(_game.song);
-            MediaPlayer.Volume = 0.005f;
+            MediaPlayer.Volume = 0.5f;
 
             Notes FixedNotes = new Notes(_game, "Img/left", new Vector2(332, 530));
             fixedNotes.Add(FixedNotes);
